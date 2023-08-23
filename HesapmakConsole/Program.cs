@@ -4,7 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int sayac;
+            string isim;
+            sayac = 1;
+            isim = "sena";
+
+
+            while (@sayac <= 10)
+            {
+                Console.WriteLine(isim);
+                sayac = sayac + 1;
+            }
         }
     }
 }
