@@ -34,7 +34,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(908, 614);
+            this.ClientSize = new System.Drawing.Size(673, 654);
             this.Name = "HesapMakForm";
             this.Text = "HesapMakForm";
             this.ResumeLayout(false);
